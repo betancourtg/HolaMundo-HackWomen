@@ -30,7 +30,3 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Leer
 - Salir a correr
 
-* Guadalupe Betancourt
-- Escuchar música
-- Bailar
-- Ver películas
